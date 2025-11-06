@@ -1,27 +1,26 @@
 # Tp2
-Presentation numérique portant sur l'analyse d'un profile multimédia
-1. Page de titre : nom, prénom, titre de la présentation, cours et session.
+## Presentation numérique portant sur l'analyse d'un profile multimédia
 
-2. Pourquoi j’ai choisi le programme TIM : vos motivations, intérêts ou inspirations.
+### Pourquoi j’ai choisi le programme TIM : vos motivations, intérêts ou inspirations.
 
-3. Mon profil multimédia : créatif, technique ou hybride (avec explication).
+### Mon profil multimédia
 
-4. Mes forces : compétences ou qualités qui vous démarquent.
+###  Mes forces 
 
-5. Mes faiblesses : points à améliorer ou défis à surmonter.
+###  Mes faiblesses 
 
-6. Mon domaine multimédia préféré : pourquoi ce domaine vous attire.
+### Mon domaine multimédia préféré 
 
-7. Mon domaine multimédia le moins préféré : ce qui vous rejoint moins et pourquoi.
+###  Mon domaine multimédia le moins préféré
 
-8. Mon premier choix de carrière ou d’études universitaires : lien avec votre profil.
+### Mon premier choix de carrière ou d’études universitaires
 
-9. Mon deuxième choix de carrière ou d’études universitaires : autre voie possible.
+### Mon deuxième choix de carrière ou d’études universitaires 
 
-10. Conclusion : résumé de votre profil et de vos aspirations.
+###  Conclusion 
 
-11. Style et mise en page clairs et cohérents, en lien avec votre moodboard.
+###  Style et mise en page clairs et cohérents, en lien avec votre moodboard.
 
-12. Une transition simple entre chaque diapositive.
+###  Une transition simple entre chaque diapositive.
 
-13. Au moins 6 images pertinentes avec sources indiquées.
+###  Au moins 6 images pertinentes avec sources indiquées.
