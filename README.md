@@ -1,7 +1,7 @@
 # Tp2
 ## Presentation numérique portant sur l'analyse d'un profile multimédia
 
-### Pourquoi j’ai choisi le programme TIM : vos motivations, intérêts ou inspirations.
+### Pourquoi j’ai choisi le programme TIM 
 
 ### Mon profil multimédia
 
